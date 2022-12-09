@@ -4,3 +4,4 @@ Add some text
 .
 .
 I am using Git.
+Added some text.
