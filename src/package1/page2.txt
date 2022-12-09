@@ -3,3 +3,4 @@ Add some text
 .
 .
 .
+I am using Git.
